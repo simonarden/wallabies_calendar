@@ -1,0 +1,34 @@
+name: Update Caulfield racing calendar
+on:
+  schedule:
+    - cron: '23 19 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'caulfield/update.py'
+      - 'caulfield/test_update.py'
+      - '.github/workflows/caulfield.yml'
+permissions:
+  contents: write
+concurrency:
+  group: caulfield-calendar
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test filtering and calendar output
+        run: python3 -m unittest discover -s caulfield -p 'test_*.py'
+      - name: Fetch public fixtures and generate feed
+        run: python3 caulfield/update.py
+      - name: Publish calendar and check timestamp
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add caulfield/caulfield.ics caulfield/state.json caulfield/last-checked.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public Caulfield race fixtures'
+            git push
+          fi

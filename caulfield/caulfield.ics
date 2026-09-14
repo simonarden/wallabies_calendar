@@ -1,0 +1,499 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Caulfield Racing Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Caulfield Racing
+X-WR-TIMEZONE:Australia/Melbourne
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:mrc-5195493@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20260916T020000Z
+DTEND:20260916T080000Z
+SUMMARY:Caulfield Heath Wednesday
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2026/09/16/caulfield-heath-wednesday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar/2026/09/16/caulfield-heath-wedne
+ sday
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195841@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20260919T020000Z
+DTEND:20260919T080000Z
+SUMMARY:Henley Homes Caulfield Underwood Stakes
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2026/09/19/caulfield-underwood-stakes
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/2026/09/19/caulfield-underwood-stakes
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195477@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20260927T020000Z
+DTEND:20260927T080000Z
+SUMMARY:Manikato Stakes - The Valley @ Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2026/09/27/manikato-stakes-the-valley-a
+ t-caulfield
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/2026/09/27/manikato-stakes-the-valley-
+ at-caulfield
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195820@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20261010T010000Z
+DTEND:20261010T070000Z
+SUMMARY:Sportsbet Caulfield Guineas
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/caulfield-guineas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/caulfield-guineas
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195814@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20261014T010000Z
+DTEND:20261014T070000Z
+SUMMARY:Beverly Caulfield Social
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/caulfield-social
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/caulfield-social
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195808@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+SUMMARY:Sportsbet Caulfield Cup
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/caulfield-cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/caulfield-cup
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195498@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270130T010000Z
+DTEND:20270130T070000Z
+SUMMARY:Caulfield Open Day
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/caulfield-open-day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/caulfield-open-day
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195485@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270203T010000Z
+DTEND:20270203T070000Z
+SUMMARY:Caulfield Heath Twilight
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2027/02/03/caulfield-heath-twilight
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar/2027/02/03/caulfield-heath-twili
+ ght
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195671@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270206T010000Z
+DTEND:20270206T070000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195661@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270210T010000Z
+DTEND:20270210T070000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195668@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270215T010000Z
+DTEND:20270215T070000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195656@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270220T010000Z
+DTEND:20270220T070000Z
+SUMMARY:Sportsbet Caulfield Blue Diamond
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/caulfield-blue-diamond
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/caulfield-blue-diamond
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195484@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270224T010000Z
+DTEND:20270224T070000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195483@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270303T010000Z
+DTEND:20270303T070000Z
+SUMMARY:Caulfield Heath Twilight
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2027/03/03/caulfield-heath-twilight
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar/2027/03/03/caulfield-heath-twili
+ ght
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195624@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270317T010000Z
+DTEND:20270317T070000Z
+SUMMARY:Caulfield Heath Twilight
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2027/03/17/caulfield-heath-twilight
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar/2027/03/17/caulfield-heath-twili
+ ght
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195619@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270320T010000Z
+DTEND:20270320T070000Z
+SUMMARY:William Reid Stakes - The Valley @ Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2027/03/20/william-reid-stakes-the-vall
+ ey-at-caulfield
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar/2027/03/20/william-reid-stakes-the-val
+ ley-at-caulfield
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195458@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270324T010000Z
+DTEND:20270324T070000Z
+SUMMARY:Caulfield Heath Twilight
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar/2027/03/24/caulfield-heath-twilight
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar/2027/03/24/caulfield-heath-twili
+ ght
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195599@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270403T010000Z
+DTEND:20270403T070000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195587@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270410T020000Z
+DTEND:20270410T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195481@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270414T020000Z
+DTEND:20270414T080000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195565@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270428T020000Z
+DTEND:20270428T080000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195878@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270501T020000Z
+DTEND:20270501T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195554@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270508T020000Z
+DTEND:20270508T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195962@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270519T020000Z
+DTEND:20270519T080000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195953@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270526T020000Z
+DTEND:20270526T080000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195948@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270529T020000Z
+DTEND:20270529T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195929@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270616T020000Z
+DTEND:20270616T080000Z
+SUMMARY:Caulfield Heath
+LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
+  Australia/Melbourne\; this is a planning window\, not official race times
+ . Source: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195919@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270626T020000Z
+DTEND:20270626T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195903@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270710T020000Z
+DTEND:20270710T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:mrc-5195887@caulfield-racing
+DTSTAMP:20260914T031035Z
+LAST-MODIFIED:20260914T031035Z
+SEQUENCE:0
+DTSTART:20270731T020000Z
+DTEND:20270731T080000Z
+SUMMARY:Caulfield
+LOCATION:Caulfield Racecourse\, Victoria\, Australia
+URL:https://mrc.racing.com/calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
+ alia/Melbourne\; this is a planning window\, not official race times. Sour
+ ce: https://mrc.racing.com/calendar
+END:VEVENT
+END:VCALENDAR
