@@ -47,11 +47,11 @@
     "cancelled": false,
     "date": "2027-02-24",
     "missing": 0,
-    "modified": "20260914T031035Z",
-    "sequence": 0,
-    "title": "Caulfield Heath",
+    "modified": "20261106T234439Z",
+    "sequence": 1,
+    "title": "Caulfield Heath Twilight",
     "uid": "mrc-5195484@caulfield-racing",
-    "url": "https://mrc.racing.com/calendar",
+    "url": "https://mrc.racing.com/calendar/2027/02/24/caulfield-heath-twilight",
     "venue": "Caulfield Heath"
   },
   "mrc-5195485@caulfield-racing": {
@@ -168,11 +168,11 @@
     "cancelled": false,
     "date": "2027-02-10",
     "missing": 0,
-    "modified": "20260914T031035Z",
-    "sequence": 0,
-    "title": "Caulfield Heath",
+    "modified": "20261106T234439Z",
+    "sequence": 1,
+    "title": "Caulfield Heath Twilight",
     "uid": "mrc-5195661@caulfield-racing",
-    "url": "https://mrc.racing.com/calendar",
+    "url": "https://mrc.racing.com/calendar/2027/02/10/caulfield-heath-twilight",
     "venue": "Caulfield Heath"
   },
   "mrc-5195668@caulfield-racing": {
@@ -190,11 +190,11 @@
     "cancelled": false,
     "date": "2027-02-06",
     "missing": 0,
-    "modified": "20260914T031035Z",
-    "sequence": 0,
-    "title": "Caulfield",
+    "modified": "20261106T234439Z",
+    "sequence": 1,
+    "title": "Herald Sun Caulfield Family Day",
     "uid": "mrc-5195671@caulfield-racing",
-    "url": "https://mrc.racing.com/calendar",
+    "url": "https://mrc.racing.com/calendar/2027/02/06/herald-sun-caulfield-family-day",
     "venue": "Caulfield"
   },
   "mrc-5195808@caulfield-racing": {

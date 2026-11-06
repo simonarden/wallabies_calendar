@@ -141,35 +141,38 @@ DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195671@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261106T234439Z
+LAST-MODIFIED:20261106T234439Z
+SEQUENCE:1
 DTSTART:20270206T010000Z
 DTEND:20270206T070000Z
-SUMMARY:Caulfield
+SUMMARY:Herald Sun Caulfield Family Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/02/06/herald-sun-caulfield-family-
+ day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/02/06/herald-sun-caulfield-family
+ -day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195661@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261106T234439Z
+LAST-MODIFIED:20261106T234439Z
+SEQUENCE:1
 DTSTART:20270210T010000Z
 DTEND:20270210T070000Z
-SUMMARY:Caulfield Heath
+SUMMARY:Caulfield Heath Twilight
 LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/02/10/caulfield-heath-twilight
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
   Australia/Melbourne\; this is a planning window\, not official race times
- . Source: https://mrc.racing.com/calendar
+ . Source: https://mrc.racing.com/calendar/2027/02/10/caulfield-heath-twili
+ ght
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195668@caulfield-racing
@@ -205,19 +208,20 @@ DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195484@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261106T234439Z
+LAST-MODIFIED:20261106T234439Z
+SEQUENCE:1
 DTSTART:20270224T010000Z
 DTEND:20270224T070000Z
-SUMMARY:Caulfield Heath
+SUMMARY:Caulfield Heath Twilight
 LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/02/24/caulfield-heath-twilight
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
   Australia/Melbourne\; this is a planning window\, not official race times
- . Source: https://mrc.racing.com/calendar
+ . Source: https://mrc.racing.com/calendar/2027/02/24/caulfield-heath-twili
+ ght
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195483@caulfield-racing
