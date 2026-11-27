@@ -108,19 +108,19 @@ DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195498@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270130T010000Z
 DTEND:20270130T070000Z
 SUMMARY:Caulfield Open Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar/caulfield-open-day
+URL:https://mrc.racing.com/calendar/2027/01/30/caulfield-open-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar/caulfield-open-day
+ ce: https://mrc.racing.com/calendar/2027/01/30/caulfield-open-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195485@caulfield-racing
@@ -176,19 +176,20 @@ DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195668@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270215T010000Z
 DTEND:20270215T070000Z
-SUMMARY:Caulfield Heath
+SUMMARY:Caulfield Super Bowl Monday
 LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/02/15/caulfield-super-bowl-monday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
   Australia/Melbourne\; this is a planning window\, not official race times
- . Source: https://mrc.racing.com/calendar
+ . Source: https://mrc.racing.com/calendar/2027/02/15/caulfield-super-bowl-
+ monday
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195656@caulfield-racing
@@ -294,115 +295,120 @@ DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195599@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270403T010000Z
 DTEND:20270403T070000Z
-SUMMARY:Caulfield
+SUMMARY:Caulfield Race Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/04/03/caulfield-race-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/04/03/caulfield-race-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195587@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270410T020000Z
 DTEND:20270410T080000Z
-SUMMARY:Caulfield
+SUMMARY:Caulfield Thoroughbred Club Race Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/04/10/caulfield-thoroughbred-club-
+ race-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/04/10/caulfield-thoroughbred-club
+ -race-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195481@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270414T020000Z
 DTEND:20270414T080000Z
-SUMMARY:Caulfield Heath
+SUMMARY:Caulfield Heath Wednesday
 LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/04/14/caulfield-heath-wednesday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
   Australia/Melbourne\; this is a planning window\, not official race times
- . Source: https://mrc.racing.com/calendar
+ . Source: https://mrc.racing.com/calendar/2027/04/14/caulfield-heath-wedne
+ sday
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195565@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270428T020000Z
 DTEND:20270428T080000Z
-SUMMARY:Caulfield Heath
+SUMMARY:Caulfield Heath Wednesday
 LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/04/28/caulfield-heath-wednesday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
   Australia/Melbourne\; this is a planning window\, not official race times
- . Source: https://mrc.racing.com/calendar
+ . Source: https://mrc.racing.com/calendar/2027/04/28/caulfield-heath-wedne
+ sday
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195878@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270501T020000Z
 DTEND:20270501T080000Z
-SUMMARY:Caulfield
+SUMMARY:Caulfield Race Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/05/01/caulfield-race-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/05/01/caulfield-race-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195554@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270508T020000Z
 DTEND:20270508T080000Z
-SUMMARY:Caulfield
+SUMMARY:Caulfield Race Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/05/08/caulfield-race-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/05/08/caulfield-race-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195962@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270519T020000Z
 DTEND:20270519T080000Z
-SUMMARY:Caulfield Heath
+SUMMARY:Caulfield Heath Wednesday
 LOCATION:Caulfield Heath Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/05/19/caulfield-heath-wednesday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
   Australia/Melbourne\; this is a planning window\, not official race times
- . Source: https://mrc.racing.com/calendar
+ . Source: https://mrc.racing.com/calendar/2027/05/19/caulfield-heath-wedne
+ sday
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195953@caulfield-racing
@@ -454,50 +460,52 @@ DESCRIPTION:Race meeting at Caulfield Heath. Calendar window: 12 pm to 6 pm
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195919@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270626T020000Z
 DTEND:20270626T080000Z
-SUMMARY:Caulfield
+SUMMARY:Caulfield Winter Race Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/06/26/caulfield-winter-race-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/06/26/caulfield-winter-race-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195903@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270710T020000Z
 DTEND:20270710T080000Z
-SUMMARY:Caulfield
+SUMMARY:Sportsbet Caulfield Winter Race Day
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/07/10/sportsbet-caulfield-winter-r
+ ace-day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/07/10/sportsbet-caulfield-winter-
+ race-day
 END:VEVENT
 BEGIN:VEVENT
 UID:mrc-5195887@caulfield-racing
-DTSTAMP:20260914T031035Z
-LAST-MODIFIED:20260914T031035Z
-SEQUENCE:0
+DTSTAMP:20261127T021611Z
+LAST-MODIFIED:20261127T021611Z
+SEQUENCE:1
 DTSTART:20270731T020000Z
 DTEND:20270731T080000Z
-SUMMARY:Caulfield
+SUMMARY:Caulfield Season Finale
 LOCATION:Caulfield Racecourse\, Victoria\, Australia
-URL:https://mrc.racing.com/calendar
+URL:https://mrc.racing.com/calendar/2027/07/31/caulfield-season-finale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Race meeting at Caulfield. Calendar window: 12 pm to 6 pm Austr
  alia/Melbourne\; this is a planning window\, not official race times. Sour
- ce: https://mrc.racing.com/calendar
+ ce: https://mrc.racing.com/calendar/2027/07/31/caulfield-season-finale
 END:VEVENT
 END:VCALENDAR
